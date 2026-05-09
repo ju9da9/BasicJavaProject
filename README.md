@@ -5,5 +5,4 @@ The project implements a simple vehicle management system in Java, allowing the 
 It was developed as an academic project to strengthen programming fundamentals, data handling, and software development practices in Java.
 
 
->it is recommended to have an IDE installed before opening the project. The .zip file contains some HTML files, which are the Javadocs generated for the project, so these files should not be deleted.
->The IDE used to develop this project was IntelliJ IDEA Community Edition by JetBrains.
+>it is recommended to have an IDE installed before opening the project. The IDE used to develop this project was IntelliJ IDEA Community Edition by JetBrains.
