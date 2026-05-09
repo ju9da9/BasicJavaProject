@@ -5,4 +5,4 @@ The project implements a simple vehicle management system in Java, allowing the 
 It was developed as an academic project to strengthen programming fundamentals, data handling, and software development practices in Java.
 
 
->it is recommended to have an IDE installed before opening the project. The IDE used to develop this project was IntelliJ IDEA Community Edition by JetBrains.
+>It is recommended to have an IDE installed before opening the project. The IDE used to develop this project was IntelliJ IDEA Community Edition by JetBrains.
